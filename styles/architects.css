@@ -189,6 +189,17 @@ main {
     gap: 20px;
 }
 
+.footer-section {
+    padding-top: 5px;
+    margin-top: 50px;
+    text-align: center;
+    background: #fff4e7;
+    height: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
 
 
 
@@ -237,6 +248,17 @@ main {
 
     .facts-card-container {
         gap: 20px;
+    }
+
+    .sponsors-img-container {
+        margin-bottom: 30px;
+    }
+
+    .footer-section {
+        height: 30px;
+        margin: auto;
+        width: auto;
+        padding-bottom: 10px;
     }
 }
 
