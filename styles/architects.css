@@ -103,6 +103,36 @@ main {
     font-weight: 700;
 }
 
+.features {
+    display: flex;
+    margin-top: 130px;
+    gap: 80px;
+}
+
+.features .section-title {
+    border-left: 5px solid #ff900e;
+    padding-left: 20px;
+}
+
+.features-container .card {
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    background: #fff;
+}
+
+.ten-years-badge {
+    border-radius: 6px;
+    background: #ff900e;
+    color: #fff;
+    width: 342px;
+}
+
+.ten-years-badge h2 {
+    font-size: 4rem;
+}
+
 .facts-card-container {
     display: flex;
     justify-content: space-around;
